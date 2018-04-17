@@ -76,7 +76,7 @@ hr {
 }
 
 .img-responsive {
-  max-width: 100%
+  max-width: 100%;
   height: auto;
   display:block;
   width: -webkit-fill-available;
@@ -163,7 +163,7 @@ footer {
   }
   
   h2, h3 {
-      font-size: 1.1sem;
+      font-size: 1.1em;
   }
   
   aside {
